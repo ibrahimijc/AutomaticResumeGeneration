@@ -1,0 +1,205 @@
+{
+  "basics": {
+    "name": null,
+    "label": null,
+    "image": null,
+    "email": null,
+    "phone": null,
+    "url": null,
+    "summary": null,
+    "location": {
+      "address": null,
+      "postalCode": null,
+      "city": null,
+      "countryCode": null,
+      "region": null
+    },
+    "relExp": null,
+    "totalExp": null,
+    "objective": null,
+    "profiles": [
+      {
+        "network": null,
+        "username": null,
+        "url": null
+      },
+      {
+        "network": null,
+        "username": null,
+        "url": null
+      },
+      {
+        "network": null,
+        "username": null,
+        "url": null
+      },
+      {
+        "network": null,
+        "username": null,
+        "url": null
+      },
+      {
+        "network": null,
+        "username": null,
+        "url": null
+      },
+      {
+        "network": null,
+        "username": null,
+        "url": null
+      },
+      {
+        "network": null,
+        "username": null,
+        "url": null
+      }
+    ]
+  },
+
+  "skills": {
+    "languages": [
+      { "name": null, "level": null },
+      { "name": null, "level": null },
+      { "name": null, "level": null }
+    ],
+    "frameworks": [
+      { "name": null, "level": null },
+      { "name": null, "level": null }
+    ],
+    "technologies": [
+      { "name": null, "level": null },
+      { "name": null, "level": null },
+      { "name": null, "level": null },
+      { "name": null, "level": null }
+    ],
+    "libraries": [
+      { "name": null, "level": null },
+      { "name": null, "level": null }
+    ],
+    "databases": [{ "name": null, "level": null }],
+    "practices": [
+      { "name": null, "level": null },
+      { "name": null, "level": null },
+      { "name": null, "level": null },
+      { "name": null, "level": null },
+      { "name": null, "level": null }
+    ],
+    "tools": [
+      { "name": null, "level": null },
+      { "name": null, "level": null },
+      { "name": null, "level": null },
+      { "name": null, "level": null },
+      { "name": null, "level": null },
+      { "name": null, "level": null }
+    ]
+  },
+
+  "work": [
+    {
+      "id": null,
+      "name": null,
+      "position": null,
+      "url": null,
+      "startDate": null,
+      "isWorkingHere": null,
+      "endDate": null,
+      "highlights": [
+        null
+      ],
+      "summary": null,
+      "years": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "position": null,
+      "url": null,
+      "startDate": null,
+      "isWorkingHere": null,
+      "endDate": null,
+      "highlights": [
+        null
+      ],
+      "summary": null,
+      "years": null
+    },
+    {
+      "id": null,
+      "name": null,
+      "position": null,
+      "url": null,
+      "startDate": null,
+      "isWorkingHere": null,
+      "endDate": null,
+      "highlights": [
+        null
+      ],
+      "summary": null,
+      "years": null
+    }
+  ],
+
+  "education": [
+    {
+      "id": null,
+      "institution": null,
+      "url": null,
+      "studyType": null,
+      "area": null,
+      "startDate": null,
+      "isStudyingHere": null,
+      "endDate": null,
+      "score": null,
+      "courses": []
+    },
+    {
+      "id": null,
+      "institution": null,
+      "url": null,
+      "studyType": null,
+      "area": null,
+      "startDate": null,
+      "isStudyingHere": null,
+      "endDate": null,
+      "score": null,
+      "courses": []
+    }
+  ],
+
+  "activities": {
+    "involvements": null,
+    "achievements": null
+  },
+
+  "volunteer": [
+    {
+      "id": null,
+      "organization": null,
+      "position": null,
+      "url": null,
+      "startDate": null,
+      "endDate": null,
+      "summary": null,
+      "highlights": [
+        null
+      ],
+      "isVolunteeringNow": null
+    }
+  ],
+  "awards": [
+    {
+      "title": null,
+      "date": null,
+      "awarder": null,
+      "summary": null,
+      "id": null
+    },
+    {
+      "title": null,
+      "date": null,
+      "awarder": null,
+      "summary": null,
+      "id": null
+    }
+  ]
+}
