@@ -1,0 +1,12 @@
+/Users/ijc/IBA/Final Project/Repositories/CustomizedResume/ResumeBuilderService.Domain/bin/Debug/net7.0/ResumeBuilderService.Domain.deps.json
+/Users/ijc/IBA/Final Project/Repositories/CustomizedResume/ResumeBuilderService.Domain/bin/Debug/net7.0/ResumeBuilderService.Domain.dll
+/Users/ijc/IBA/Final Project/Repositories/CustomizedResume/ResumeBuilderService.Domain/bin/Debug/net7.0/ResumeBuilderService.Domain.pdb
+/Users/ijc/IBA/Final Project/Repositories/CustomizedResume/ResumeBuilderService.Domain/obj/Debug/net7.0/ResumeBuilderService.Domain.csproj.AssemblyReference.cache
+/Users/ijc/IBA/Final Project/Repositories/CustomizedResume/ResumeBuilderService.Domain/obj/Debug/net7.0/ResumeBuilderService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ijc/IBA/Final Project/Repositories/CustomizedResume/ResumeBuilderService.Domain/obj/Debug/net7.0/ResumeBuilderService.Domain.AssemblyInfoInputs.cache
+/Users/ijc/IBA/Final Project/Repositories/CustomizedResume/ResumeBuilderService.Domain/obj/Debug/net7.0/ResumeBuilderService.Domain.AssemblyInfo.cs
+/Users/ijc/IBA/Final Project/Repositories/CustomizedResume/ResumeBuilderService.Domain/obj/Debug/net7.0/ResumeBuilderService.Domain.csproj.CoreCompileInputs.cache
+/Users/ijc/IBA/Final Project/Repositories/CustomizedResume/ResumeBuilderService.Domain/obj/Debug/net7.0/ResumeBuilderService.Domain.dll
+/Users/ijc/IBA/Final Project/Repositories/CustomizedResume/ResumeBuilderService.Domain/obj/Debug/net7.0/refint/ResumeBuilderService.Domain.dll
+/Users/ijc/IBA/Final Project/Repositories/CustomizedResume/ResumeBuilderService.Domain/obj/Debug/net7.0/ResumeBuilderService.Domain.pdb
+/Users/ijc/IBA/Final Project/Repositories/CustomizedResume/ResumeBuilderService.Domain/obj/Debug/net7.0/ref/ResumeBuilderService.Domain.dll

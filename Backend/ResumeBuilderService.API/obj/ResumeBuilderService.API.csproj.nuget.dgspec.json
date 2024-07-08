@@ -1,0 +1,205 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ijc/IBA/Final Project/Repositories/AutomaticResumeGenerationFrontend/Backend/ResumeBuilderService.API/ResumeBuilderService.API.csproj": {}
+  },
+  "projects": {
+    "/Users/ijc/IBA/Final Project/Repositories/AutomaticResumeGenerationFrontend/Backend/ResumeBuilderService.API/ResumeBuilderService.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ijc/IBA/Final Project/Repositories/AutomaticResumeGenerationFrontend/Backend/ResumeBuilderService.API/ResumeBuilderService.API.csproj",
+        "projectName": "ResumeBuilderService.API",
+        "projectPath": "/Users/ijc/IBA/Final Project/Repositories/AutomaticResumeGenerationFrontend/Backend/ResumeBuilderService.API/ResumeBuilderService.API.csproj",
+        "packagesPath": "/Users/ijc/.nuget/packages/",
+        "outputPath": "/Users/ijc/IBA/Final Project/Repositories/AutomaticResumeGenerationFrontend/Backend/ResumeBuilderService.API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ijc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/ijc/IBA/Final Project/Repositories/AutomaticResumeGenerationFrontend/Backend/ResumeBuilderService.Domain/ResumeBuilderService.Domain.csproj": {
+                "projectPath": "/Users/ijc/IBA/Final Project/Repositories/AutomaticResumeGenerationFrontend/Backend/ResumeBuilderService.Domain/ResumeBuilderService.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Serilog.Enrichers.Span": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Serilog.Exceptions": {
+              "target": "Package",
+              "version": "[8.4.0, )"
+            },
+            "Serilog.Formatting.Elasticsearch": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Serilog.Settings.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Serilog.Sinks.Async": {
+              "target": "Package",
+              "version": "[1.5.0, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Standard.AI.OpenAI": {
+              "target": "Package",
+              "version": "[0.6.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ijc/IBA/Final Project/Repositories/AutomaticResumeGenerationFrontend/Backend/ResumeBuilderService.Domain/ResumeBuilderService.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ijc/IBA/Final Project/Repositories/AutomaticResumeGenerationFrontend/Backend/ResumeBuilderService.Domain/ResumeBuilderService.Domain.csproj",
+        "projectName": "ResumeBuilderService.Domain",
+        "projectPath": "/Users/ijc/IBA/Final Project/Repositories/AutomaticResumeGenerationFrontend/Backend/ResumeBuilderService.Domain/ResumeBuilderService.Domain.csproj",
+        "packagesPath": "/Users/ijc/.nuget/packages/",
+        "outputPath": "/Users/ijc/IBA/Final Project/Repositories/AutomaticResumeGenerationFrontend/Backend/ResumeBuilderService.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ijc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AspNetCore.Identity.MongoDbCore": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.24.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.24.0, )"
+            },
+            "MongoDB.Driver.Core": {
+              "target": "Package",
+              "version": "[2.24.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

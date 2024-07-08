@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/ResumeBuilderService.API.props" />
+</Project>
